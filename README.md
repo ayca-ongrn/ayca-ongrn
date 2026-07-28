@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋 I'm Ayça
 
-<!--
-**ayca-ongrn/ayca-ongrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Management Information Systems Student
 
-Here are some ideas to get you started:
+💻 Interested in
+- Business Analysis
+- Data Analysis
+- Product Management
+- Frontend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- Python
+- SQL
+- HTML
+- CSS
+- JavaScript
+- PHP
+- R
+- Figma
+
+## Currently Learning
+
+- Power BI
+- Advanced SQL
+- Data Analytics
+
+📍 İzmir, Türkiye
